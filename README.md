@@ -51,7 +51,7 @@ The commmand provides a link to the following front web application:
 ----
 ### Manual <a name="installation"></a>
 
-The tools is initiated using the binary command. The help instruction is called using -h option. 
+The tools is initiated using the binary command. The help instruction is called using -h option. Note in the multifasta file base **U** need to be replaced by **T**.   
 
 ```
 usage: plasmidperm.bin [-h] -i INPUT -o OUTPUT [-p {pB10,pKJK5,RP4}] [-r {Kingdom,Phylum,Class,Order,Family,Genus}] [-t TREE]
