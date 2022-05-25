@@ -1,0 +1,630 @@
+[2022-05-25T12:08:37.691662 37524] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:37.691662 37524] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) base_dir = 
+[2022-05-25T12:08:37.691662 37524] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:37.691662 37524] Config: (default) compiler = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:37.691662 37524] Config: (default) compiler_type = auto
+[2022-05-25T12:08:37.691662 37524] Config: (default) compression = true
+[2022-05-25T12:08:37.691662 37524] Config: (default) compression_level = 0
+[2022-05-25T12:08:37.691662 37524] Config: (default) cpp_extension = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) debug = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) debug_dir = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) depend_mode = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) direct_mode = true
+[2022-05-25T12:08:37.691662 37524] Config: (default) disable = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) file_clone = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) hard_link = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) hash_dir = true
+[2022-05-25T12:08:37.691662 37524] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) ignore_options = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) inode_cache = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:37.691662 37524] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:37.691662 37524] Config: (default) max_files = 0
+[2022-05-25T12:08:37.691662 37524] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:37.691662 37524] Config: (default) path = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) prefix_command = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) read_only = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) read_only_direct = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) recache = false
+[2022-05-25T12:08:37.691662 37524] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:37.691662 37524] Config: (default) sloppiness = 
+[2022-05-25T12:08:37.691662 37524] Config: (default) stats = true
+[2022-05-25T12:08:37.691662 37524] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:37.691662 37524] Config: (default) umask = 
+[2022-05-25T12:08:37.692000 37524] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src __constants.c
+[2022-05-25T12:08:37.692024 37524] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:37.692034 37524] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:37.692043 37524] Compiler type: clang
+[2022-05-25T12:08:37.692139 37524] Source file: __constants.c
+[2022-05-25T12:08:37.692152 37524] Object file: __constants.o
+[2022-05-25T12:08:37.692198 37524] Trying direct lookup
+[2022-05-25T12:08:37.693745 37524] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/3/0/95i29pvf2rq9omnvm79lipeftt17f9mM
+[2022-05-25T12:08:37.721055 37526] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:37.721058 37525] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:37.721058 37525] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) base_dir = 
+[2022-05-25T12:08:37.721058 37525] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:37.721058 37525] Config: (default) compiler = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:37.721058 37525] Config: (default) compiler_type = auto
+[2022-05-25T12:08:37.721058 37525] Config: (default) compression = true
+[2022-05-25T12:08:37.721058 37525] Config: (default) compression_level = 0
+[2022-05-25T12:08:37.721058 37525] Config: (default) cpp_extension = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) debug = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) debug_dir = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) depend_mode = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) direct_mode = true
+[2022-05-25T12:08:37.721058 37525] Config: (environment) disable = true
+[2022-05-25T12:08:37.721058 37525] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) file_clone = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) hard_link = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) hash_dir = true
+[2022-05-25T12:08:37.721058 37525] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) ignore_options = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) inode_cache = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:37.721058 37525] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:37.721058 37525] Config: (default) max_files = 0
+[2022-05-25T12:08:37.721058 37525] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:37.721058 37525] Config: (default) path = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) prefix_command = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) read_only = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) read_only_direct = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) recache = false
+[2022-05-25T12:08:37.721058 37525] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:37.721058 37525] Config: (default) sloppiness = 
+[2022-05-25T12:08:37.721058 37525] Config: (default) stats = true
+[2022-05-25T12:08:37.721058 37525] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:37.721058 37525] Config: (default) umask = 
+[2022-05-25T12:08:37.721258 37525] ccache is disabled
+[2022-05-25T12:08:37.721055 37526] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) base_dir = 
+[2022-05-25T12:08:37.721055 37526] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:37.721055 37526] Config: (default) compiler = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:37.721055 37526] Config: (default) compiler_type = auto
+[2022-05-25T12:08:37.721055 37526] Config: (default) compression = true
+[2022-05-25T12:08:37.721055 37526] Config: (default) compression_level = 0
+[2022-05-25T12:08:37.721055 37526] Config: (default) cpp_extension = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) debug = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) debug_dir = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) depend_mode = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) direct_mode = true
+[2022-05-25T12:08:37.721055 37526] Config: (default) disable = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) file_clone = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) hard_link = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) hash_dir = true
+[2022-05-25T12:08:37.721055 37526] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) ignore_options = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) inode_cache = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:37.721055 37526] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:37.721055 37526] Config: (default) max_files = 0
+[2022-05-25T12:08:37.721055 37526] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:37.721055 37526] Config: (default) path = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) prefix_command = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) read_only = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) read_only_direct = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) recache = false
+[2022-05-25T12:08:37.721055 37526] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:37.721055 37526] Config: (default) sloppiness = 
+[2022-05-25T12:08:37.721055 37526] Config: (default) stats = true
+[2022-05-25T12:08:37.721055 37526] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:37.721055 37526] Config: (default) umask = 
+[2022-05-25T12:08:37.721267 37526] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src __helpers.c
+[2022-05-25T12:08:37.721308 37525] Failed; falling back to running the real compiler
+[2022-05-25T12:08:37.721317 37526] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:37.721326 37525] Executing /usr/bin/clang -o __constants_data.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src __constants_data.c
+[2022-05-25T12:08:37.721331 37526] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:37.721334 37525] Result: disabled
+[2022-05-25T12:08:37.721342 37526] Compiler type: clang
+[2022-05-25T12:08:37.721476 37526] Source file: __helpers.c
+[2022-05-25T12:08:37.721495 37526] Object file: __helpers.o
+[2022-05-25T12:08:37.721565 37526] Trying direct lookup
+[2022-05-25T12:08:37.722386 37526] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/7/c/dben57bnumcmsd53p86pbhohe9ede26M
+[2022-05-25T12:08:37.771446 37528] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:37.771447 37527] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:37.771446 37528] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) base_dir = 
+[2022-05-25T12:08:37.771446 37528] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:37.771446 37528] Config: (default) compiler = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:37.771446 37528] Config: (default) compiler_type = auto
+[2022-05-25T12:08:37.771446 37528] Config: (default) compression = true
+[2022-05-25T12:08:37.771446 37528] Config: (default) compression_level = 0
+[2022-05-25T12:08:37.771446 37528] Config: (default) cpp_extension = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) debug = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) debug_dir = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) depend_mode = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) direct_mode = true
+[2022-05-25T12:08:37.771446 37528] Config: (default) disable = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) file_clone = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) hard_link = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) hash_dir = true
+[2022-05-25T12:08:37.771446 37528] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) ignore_options = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) inode_cache = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:37.771446 37528] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:37.771446 37528] Config: (default) max_files = 0
+[2022-05-25T12:08:37.771446 37528] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:37.771446 37528] Config: (default) path = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) prefix_command = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) read_only = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) read_only_direct = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) recache = false
+[2022-05-25T12:08:37.771446 37528] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:37.771446 37528] Config: (default) sloppiness = 
+[2022-05-25T12:08:37.771446 37528] Config: (default) stats = true
+[2022-05-25T12:08:37.771446 37528] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:37.771446 37528] Config: (default) umask = 
+[2022-05-25T12:08:37.771603 37528] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src module.__main__.c
+[2022-05-25T12:08:37.771622 37528] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:37.771630 37528] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:37.771637 37528] Compiler type: clang
+[2022-05-25T12:08:37.771447 37527] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) base_dir = 
+[2022-05-25T12:08:37.771447 37527] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:37.771447 37527] Config: (default) compiler = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:37.771447 37527] Config: (default) compiler_type = auto
+[2022-05-25T12:08:37.771447 37527] Config: (default) compression = true
+[2022-05-25T12:08:37.771447 37527] Config: (default) compression_level = 0
+[2022-05-25T12:08:37.771447 37527] Config: (default) cpp_extension = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) debug = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) debug_dir = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) depend_mode = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) direct_mode = true
+[2022-05-25T12:08:37.771447 37527] Config: (default) disable = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) file_clone = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) hard_link = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) hash_dir = true
+[2022-05-25T12:08:37.771447 37527] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) ignore_options = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) inode_cache = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:37.771447 37527] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:37.771447 37527] Config: (default) max_files = 0
+[2022-05-25T12:08:37.771447 37527] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:37.771447 37527] Config: (default) path = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) prefix_command = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) read_only = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) read_only_direct = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) recache = false
+[2022-05-25T12:08:37.771447 37527] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:37.771447 37527] Config: (default) sloppiness = 
+[2022-05-25T12:08:37.771447 37527] Config: (default) stats = true
+[2022-05-25T12:08:37.771447 37527] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:37.771447 37527] Config: (default) umask = 
+[2022-05-25T12:08:37.771687 37527] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src __loader.c
+[2022-05-25T12:08:37.771732 37527] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:37.771736 37528] Source file: module.__main__.c
+[2022-05-25T12:08:37.771745 37527] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:37.771752 37528] Object file: module.__main__.o
+[2022-05-25T12:08:37.771756 37527] Compiler type: clang
+[2022-05-25T12:08:37.771808 37528] Trying direct lookup
+[2022-05-25T12:08:37.771891 37527] Source file: __loader.c
+[2022-05-25T12:08:37.771909 37527] Object file: __loader.o
+[2022-05-25T12:08:37.771975 37527] Trying direct lookup
+[2022-05-25T12:08:37.772230 37527] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/3/7/f2to5mev7qthph4eljqq5p1k5fjvqlsM
+[2022-05-25T12:08:37.773259 37528] No manifest with name f424qecrpmdf5gudmuk25nopk17fmag86 in the cache
+[2022-05-25T12:08:37.773850 37528] Running preprocessor
+[2022-05-25T12:08:37.773886 37528] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src -E module.__main__.c
+[2022-05-25T12:08:37.839900 37531] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:37.839900 37531] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) base_dir = 
+[2022-05-25T12:08:37.839900 37531] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:37.839900 37531] Config: (default) compiler = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:37.839900 37531] Config: (default) compiler_type = auto
+[2022-05-25T12:08:37.839900 37531] Config: (default) compression = true
+[2022-05-25T12:08:37.839900 37531] Config: (default) compression_level = 0
+[2022-05-25T12:08:37.839900 37531] Config: (default) cpp_extension = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) debug = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) debug_dir = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) depend_mode = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) direct_mode = true
+[2022-05-25T12:08:37.839900 37531] Config: (default) disable = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) file_clone = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) hard_link = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) hash_dir = true
+[2022-05-25T12:08:37.839900 37531] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) ignore_options = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) inode_cache = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:37.839900 37531] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:37.839900 37531] Config: (default) max_files = 0
+[2022-05-25T12:08:37.839900 37531] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:37.839900 37531] Config: (default) path = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) prefix_command = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) read_only = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) read_only_direct = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) recache = false
+[2022-05-25T12:08:37.839900 37531] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:37.839900 37531] Config: (default) sloppiness = 
+[2022-05-25T12:08:37.839900 37531] Config: (default) stats = true
+[2022-05-25T12:08:37.839900 37531] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:37.839900 37531] Config: (default) umask = 
+[2022-05-25T12:08:37.840091 37531] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src static_src/MainProgram.c
+[2022-05-25T12:08:37.840123 37531] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:37.840130 37531] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:37.840136 37531] Compiler type: clang
+[2022-05-25T12:08:37.840243 37531] Source file: static_src/MainProgram.c
+[2022-05-25T12:08:37.840256 37531] Object file: static_src/MainProgram.o
+[2022-05-25T12:08:37.840304 37531] Trying direct lookup
+[2022-05-25T12:08:37.841293 37531] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/9/d/09vl6tu2lobpfofj77m66oantd10nlcM
+[2022-05-25T12:08:37.865980 37533] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:37.865980 37533] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) base_dir = 
+[2022-05-25T12:08:37.865980 37533] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:37.865980 37533] Config: (default) compiler = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:37.865980 37533] Config: (default) compiler_type = auto
+[2022-05-25T12:08:37.865980 37533] Config: (default) compression = true
+[2022-05-25T12:08:37.865980 37533] Config: (default) compression_level = 0
+[2022-05-25T12:08:37.865980 37533] Config: (default) cpp_extension = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) debug = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) debug_dir = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) depend_mode = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) direct_mode = true
+[2022-05-25T12:08:37.865980 37533] Config: (default) disable = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) file_clone = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) hard_link = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) hash_dir = true
+[2022-05-25T12:08:37.865980 37533] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) ignore_options = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) inode_cache = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:37.865980 37533] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:37.865980 37533] Config: (default) max_files = 0
+[2022-05-25T12:08:37.865980 37533] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:37.865980 37533] Config: (default) path = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) prefix_command = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) read_only = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) read_only_direct = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) recache = false
+[2022-05-25T12:08:37.865980 37533] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:37.865980 37533] Config: (default) sloppiness = 
+[2022-05-25T12:08:37.865980 37533] Config: (default) stats = true
+[2022-05-25T12:08:37.865980 37533] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:37.865980 37533] Config: (default) umask = 
+[2022-05-25T12:08:37.866127 37533] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src static_src/CompiledCellType.c
+[2022-05-25T12:08:37.866192 37533] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:37.866200 37533] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:37.866208 37533] Compiler type: clang
+[2022-05-25T12:08:37.866311 37533] Source file: static_src/CompiledCellType.c
+[2022-05-25T12:08:37.866323 37533] Object file: static_src/CompiledCellType.o
+[2022-05-25T12:08:37.866401 37533] Trying direct lookup
+[2022-05-25T12:08:37.866689 37533] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/0/0/efqu6gn32k90cuac1tiltli5ehjlgumM
+[2022-05-25T12:08:38.725816 37527] Got result name from manifest
+[2022-05-25T12:08:38.725974 37527] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/82hl2h7pg3q9te49noflfskkl97d1h4R
+[2022-05-25T12:08:38.726091 37531] Got result name from manifest
+[2022-05-25T12:08:38.726095 37533] Got result name from manifest
+[2022-05-25T12:08:38.726105 37526] Got result name from manifest
+[2022-05-25T12:08:38.726139 37524] Got result name from manifest
+[2022-05-25T12:08:38.726174 37531] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/0/4/fc7e44dgkldhs9t916rcjpe678ivipmR
+[2022-05-25T12:08:38.726188 37533] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/14tnqcp1cd14a67crsbj8looqlrr0c2R
+[2022-05-25T12:08:38.726226 37526] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/4/2/b2mk8s9r7p62anqr5kbs1sgvrlifeo6R
+[2022-05-25T12:08:38.726257 37524] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/d/9/8eng057rc5luc4rlhu9pi5k139uq4q2R
+[2022-05-25T12:08:38.731940 37527] Reading embedded entry #0 .o (1720 bytes)
+[2022-05-25T12:08:38.731963 37527] Writing to __loader.o
+[2022-05-25T12:08:38.732189 37527] Succeeded getting cached result
+[2022-05-25T12:08:38.732215 37527] Result: cache hit (direct)
+[2022-05-25T12:08:38.732310 37527] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock
+[2022-05-25T12:08:38.735131 37531] Reading embedded entry #0 .o (5720 bytes)
+[2022-05-25T12:08:38.735154 37531] Writing to static_src/MainProgram.o
+[2022-05-25T12:08:38.735379 37531] Succeeded getting cached result
+[2022-05-25T12:08:38.735403 37531] Result: cache hit (direct)
+[2022-05-25T12:08:38.735501 37531] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/0/4/stats.lock
+[2022-05-25T12:08:38.737483 37526] Reading embedded entry #0 .o (200 bytes)
+[2022-05-25T12:08:38.737505 37526] Writing to __helpers.o
+[2022-05-25T12:08:38.737706 37526] Succeeded getting cached result
+[2022-05-25T12:08:38.737727 37526] Result: cache hit (direct)
+[2022-05-25T12:08:38.737816 37526] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/4/2/stats.lock
+[2022-05-25T12:08:38.749268 37524] Reading embedded entry #0 .o (2920 bytes)
+[2022-05-25T12:08:38.749294 37524] Writing to __constants.o
+[2022-05-25T12:08:38.749311 37533] Reading embedded entry #0 .o (5392 bytes)
+[2022-05-25T12:08:38.749331 37533] Writing to static_src/CompiledCellType.o
+[2022-05-25T12:08:38.749525 37524] Succeeded getting cached result
+[2022-05-25T12:08:38.749553 37524] Result: cache hit (direct)
+[2022-05-25T12:08:38.749589 37533] Succeeded getting cached result
+[2022-05-25T12:08:38.749617 37533] Result: cache hit (direct)
+[2022-05-25T12:08:38.749645 37524] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/d/9/stats.lock
+[2022-05-25T12:08:38.749676 37533] lockfile_acquire: symlink /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: File exists
+[2022-05-25T12:08:38.749710 37533] lockfile_acquire: lock info for /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: COLMDS-L0A2JHD4.local:37527:0x10c76b600:1653466118
+[2022-05-25T12:08:38.749720 37533] lockfile_acquire: failed to acquire /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock; sleeping 1000 microseconds
+[2022-05-25T12:08:38.751042 37533] lockfile_acquire: symlink /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: File exists
+[2022-05-25T12:08:38.751097 37533] lockfile_acquire: lock info for /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: COLMDS-L0A2JHD4.local:37527:0x10c76b600:1653466118
+[2022-05-25T12:08:38.751111 37533] lockfile_acquire: failed to acquire /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock; sleeping 2000 microseconds
+[2022-05-25T12:08:38.753192 37533] lockfile_acquire: symlink /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: File exists
+[2022-05-25T12:08:38.753219 37533] lockfile_acquire: lock info for /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: COLMDS-L0A2JHD4.local:37527:0x10c76b600:1653466118
+[2022-05-25T12:08:38.753228 37533] lockfile_acquire: failed to acquire /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock; sleeping 4000 microseconds
+[2022-05-25T12:08:38.757841 37533] lockfile_acquire: symlink /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: File exists
+[2022-05-25T12:08:38.757874 37533] lockfile_acquire: lock info for /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock: COLMDS-L0A2JHD4.local:37527:0x10c76b600:1653466118
+[2022-05-25T12:08:38.757887 37533] lockfile_acquire: failed to acquire /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock; sleeping 8000 microseconds
+[2022-05-25T12:08:38.760647 37527] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock
+[2022-05-25T12:08:38.760723 37527] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock
+[2022-05-25T12:08:38.767137 37533] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock
+[2022-05-25T12:08:38.769901 37531] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/0/4/stats.lock
+[2022-05-25T12:08:38.769999 37526] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/4/2/stats.lock
+[2022-05-25T12:08:38.770013 37531] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/0/4/stats.lock
+[2022-05-25T12:08:38.770097 37526] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/4/2/stats.lock
+[2022-05-25T12:08:38.786043 37524] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/d/9/stats.lock
+[2022-05-25T12:08:38.786141 37524] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/d/9/stats.lock
+[2022-05-25T12:08:38.788769 37533] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock
+[2022-05-25T12:08:38.788857 37533] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/5/8/stats.lock
+[2022-05-25T12:08:38.888792 37528] Got result name from preprocessor
+[2022-05-25T12:08:38.889432 37528] No result with name 4004684bv6195i85vpvknk2kf2olvaoso in the cache
+[2022-05-25T12:08:38.889460 37528] Running real compiler
+[2022-05-25T12:08:38.889675 37528] Executing /usr/bin/clang -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src -c -fcolor-diagnostics -o module.__main__.o module.__main__.c
+[2022-05-25T12:08:39.317205 37536] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:39.317205 37536] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) base_dir = 
+[2022-05-25T12:08:39.317205 37536] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:39.317205 37536] Config: (default) compiler = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:39.317205 37536] Config: (default) compiler_type = auto
+[2022-05-25T12:08:39.317205 37536] Config: (default) compression = true
+[2022-05-25T12:08:39.317205 37536] Config: (default) compression_level = 0
+[2022-05-25T12:08:39.317205 37536] Config: (default) cpp_extension = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) debug = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) debug_dir = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) depend_mode = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) direct_mode = true
+[2022-05-25T12:08:39.317205 37536] Config: (default) disable = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) file_clone = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) hard_link = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) hash_dir = true
+[2022-05-25T12:08:39.317205 37536] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) ignore_options = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) inode_cache = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:39.317205 37536] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:39.317205 37536] Config: (default) max_files = 0
+[2022-05-25T12:08:39.317205 37536] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:39.317205 37536] Config: (default) path = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) prefix_command = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) read_only = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) read_only_direct = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) recache = false
+[2022-05-25T12:08:39.317205 37536] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:39.317205 37536] Config: (default) sloppiness = 
+[2022-05-25T12:08:39.317205 37536] Config: (default) stats = true
+[2022-05-25T12:08:39.317205 37536] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:39.317205 37536] Config: (default) umask = 
+[2022-05-25T12:08:39.317326 37536] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src static_src/CompiledFunctionType.c
+[2022-05-25T12:08:39.317357 37536] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:39.317365 37536] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:39.317371 37536] Compiler type: clang
+[2022-05-25T12:08:39.317464 37536] Source file: static_src/CompiledFunctionType.c
+[2022-05-25T12:08:39.317475 37536] Object file: static_src/CompiledFunctionType.o
+[2022-05-25T12:08:39.317522 37536] Trying direct lookup
+[2022-05-25T12:08:39.319137 37536] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/2/0/60qivav7csaiivbfvv773en1pnc11q2M
+[2022-05-25T12:08:39.443204 37537] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:39.443204 37537] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) base_dir = 
+[2022-05-25T12:08:39.443204 37537] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:39.443204 37537] Config: (default) compiler = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:39.443204 37537] Config: (default) compiler_type = auto
+[2022-05-25T12:08:39.443204 37537] Config: (default) compression = true
+[2022-05-25T12:08:39.443204 37537] Config: (default) compression_level = 0
+[2022-05-25T12:08:39.443204 37537] Config: (default) cpp_extension = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) debug = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) debug_dir = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) depend_mode = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) direct_mode = true
+[2022-05-25T12:08:39.443204 37537] Config: (default) disable = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) file_clone = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) hard_link = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) hash_dir = true
+[2022-05-25T12:08:39.443204 37537] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) ignore_options = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) inode_cache = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:39.443204 37537] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:39.443204 37537] Config: (default) max_files = 0
+[2022-05-25T12:08:39.443204 37537] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:39.443204 37537] Config: (default) path = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) prefix_command = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) read_only = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) read_only_direct = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) recache = false
+[2022-05-25T12:08:39.443204 37537] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:39.443204 37537] Config: (default) sloppiness = 
+[2022-05-25T12:08:39.443204 37537] Config: (default) stats = true
+[2022-05-25T12:08:39.443204 37537] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:39.443204 37537] Config: (default) umask = 
+[2022-05-25T12:08:39.443325 37537] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src static_src/CompiledGeneratorType.c
+[2022-05-25T12:08:39.443358 37537] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:39.443365 37537] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:39.443371 37537] Compiler type: clang
+[2022-05-25T12:08:39.443481 37537] Source file: static_src/CompiledGeneratorType.c
+[2022-05-25T12:08:39.443492 37537] Object file: static_src/CompiledGeneratorType.o
+[2022-05-25T12:08:39.443537 37537] Trying direct lookup
+[2022-05-25T12:08:39.444257 37537] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/1/f/eb5gjakr149ilkt8kc0p4fo56nngom4M
+[2022-05-25T12:08:39.472241 37538] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:39.472241 37538] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) base_dir = 
+[2022-05-25T12:08:39.472241 37538] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:39.472241 37538] Config: (default) compiler = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:39.472241 37538] Config: (default) compiler_type = auto
+[2022-05-25T12:08:39.472241 37538] Config: (default) compression = true
+[2022-05-25T12:08:39.472241 37538] Config: (default) compression_level = 0
+[2022-05-25T12:08:39.472241 37538] Config: (default) cpp_extension = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) debug = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) debug_dir = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) depend_mode = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) direct_mode = true
+[2022-05-25T12:08:39.472241 37538] Config: (default) disable = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) file_clone = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) hard_link = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) hash_dir = true
+[2022-05-25T12:08:39.472241 37538] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) ignore_options = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) inode_cache = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:39.472241 37538] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:39.472241 37538] Config: (default) max_files = 0
+[2022-05-25T12:08:39.472241 37538] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:39.472241 37538] Config: (default) path = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) prefix_command = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) read_only = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) read_only_direct = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) recache = false
+[2022-05-25T12:08:39.472241 37538] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:39.472241 37538] Config: (default) sloppiness = 
+[2022-05-25T12:08:39.472241 37538] Config: (default) stats = true
+[2022-05-25T12:08:39.472241 37538] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:39.472241 37538] Config: (default) umask = 
+[2022-05-25T12:08:39.472404 37538] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src static_src/InspectPatcher.c
+[2022-05-25T12:08:39.472443 37538] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:39.472452 37538] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:39.472458 37538] Compiler type: clang
+[2022-05-25T12:08:39.472557 37538] Source file: static_src/InspectPatcher.c
+[2022-05-25T12:08:39.472569 37538] Object file: static_src/InspectPatcher.o
+[2022-05-25T12:08:39.472619 37538] Trying direct lookup
+[2022-05-25T12:08:39.473641 37538] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/9/8/5epo6eeqacaqbdi9dvfvsb96kqlr9lmM
+[2022-05-25T12:08:39.499287 37537] Got result name from manifest
+[2022-05-25T12:08:39.500478 37537] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/e/8/3fko1bg4dlp84ioabnk6rlkoeqokr6kR
+[2022-05-25T12:08:39.503829 37539] === CCACHE master.971f1183 STARTED =========================================
+[2022-05-25T12:08:39.503829 37539] Config: (default) absolute_paths_in_stderr = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) base_dir = 
+[2022-05-25T12:08:39.503829 37539] Config: (environment) cache_dir = /Users/moradigd/Library/Caches/Nuitka/ccache
+[2022-05-25T12:08:39.503829 37539] Config: (default) compiler = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) compiler_check = mtime
+[2022-05-25T12:08:39.503829 37539] Config: (default) compiler_type = auto
+[2022-05-25T12:08:39.503829 37539] Config: (default) compression = true
+[2022-05-25T12:08:39.503829 37539] Config: (default) compression_level = 0
+[2022-05-25T12:08:39.503829 37539] Config: (default) cpp_extension = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) debug = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) debug_dir = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) depend_mode = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) direct_mode = true
+[2022-05-25T12:08:39.503829 37539] Config: (default) disable = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) extra_files_to_hash = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) file_clone = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) hard_link = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) hash_dir = true
+[2022-05-25T12:08:39.503829 37539] Config: (default) ignore_headers_in_manifest = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) ignore_options = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) inode_cache = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) keep_comments_cpp = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) limit_multiple = 0.8
+[2022-05-25T12:08:39.503829 37539] Config: (environment) log_file = /Users/moradigd/Documents/package_test/plasmidperm.build/ccache-37515.txt
+[2022-05-25T12:08:39.503829 37539] Config: (default) max_files = 0
+[2022-05-25T12:08:39.503829 37539] Config: (default) max_size = 5.0G
+[2022-05-25T12:08:39.503829 37539] Config: (default) path = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) pch_external_checksum = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) prefix_command = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) prefix_command_cpp = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) read_only = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) read_only_direct = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) recache = false
+[2022-05-25T12:08:39.503829 37539] Config: (default) run_second_cpp = true
+[2022-05-25T12:08:39.503829 37539] Config: (default) sloppiness = 
+[2022-05-25T12:08:39.503829 37539] Config: (default) stats = true
+[2022-05-25T12:08:39.503829 37539] Config: (default) temporary_dir = /Users/moradigd/Library/Caches/Nuitka/ccache/tmp
+[2022-05-25T12:08:39.503829 37539] Config: (default) umask = 
+[2022-05-25T12:08:39.503997 37539] Command line: /Users/moradigd/Library/Application Support/Nuitka/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos10.9 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_CONSTANTS_FROM_INCBIN -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -I/Users/moradigd/opt/anaconda3/include/python3.8 -I. -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/include -I/Users/moradigd/opt/anaconda3/lib/python3.8/site-packages/nuitka/build/static_src static_src/MetaPathBasedLoader.c
+[2022-05-25T12:08:39.504013 37539] Hostname: COLMDS-L0A2JHD4.local
+[2022-05-25T12:08:39.504021 37539] Working directory: /Users/moradigd/Documents/package_test/plasmidperm.build
+[2022-05-25T12:08:39.504026 37539] Compiler type: clang
+[2022-05-25T12:08:39.504149 37539] Source file: static_src/MetaPathBasedLoader.c
+[2022-05-25T12:08:39.504161 37539] Object file: static_src/MetaPathBasedLoader.o
+[2022-05-25T12:08:39.504208 37539] Trying direct lookup
+[2022-05-25T12:08:39.504540 37539] Looking for result name in /Users/moradigd/Library/Caches/Nuitka/ccache/0/9/c23d6js98nku1700qdka0tnpsgcc36eM
+[2022-05-25T12:08:39.511482 37537] Reading embedded entry #0 .o (89376 bytes)
+[2022-05-25T12:08:39.511518 37537] Writing to static_src/CompiledGeneratorType.o
+[2022-05-25T12:08:39.511866 37537] Succeeded getting cached result
+[2022-05-25T12:08:39.511903 37537] Result: cache hit (direct)
+[2022-05-25T12:08:39.512048 37537] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/e/8/stats.lock
+[2022-05-25T12:08:39.530637 37538] Got result name from manifest
+[2022-05-25T12:08:39.530720 37538] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/e/a/30f98brid7uaqdvbu0v8ugfn45f2rgiR
+[2022-05-25T12:08:39.536750 37537] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/e/8/stats.lock
+[2022-05-25T12:08:39.536820 37537] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/e/8/stats.lock
+[2022-05-25T12:08:39.538344 37538] Reading embedded entry #0 .o (7432 bytes)
+[2022-05-25T12:08:39.538376 37538] Writing to static_src/InspectPatcher.o
+[2022-05-25T12:08:39.538746 37538] Succeeded getting cached result
+[2022-05-25T12:08:39.538782 37538] Result: cache hit (direct)
+[2022-05-25T12:08:39.538949 37538] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/e/a/stats.lock
+[2022-05-25T12:08:39.563814 37538] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/e/a/stats.lock
+[2022-05-25T12:08:39.563918 37538] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/e/a/stats.lock
+[2022-05-25T12:08:39.564681 37539] Got result name from manifest
+[2022-05-25T12:08:39.564789 37539] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/0/1/2djsq6fj8t6a8fjt3g1ujkgl8hsoa8kR
+[2022-05-25T12:08:39.578113 37539] Reading embedded entry #0 .o (22504 bytes)
+[2022-05-25T12:08:39.578147 37539] Writing to static_src/MetaPathBasedLoader.o
+[2022-05-25T12:08:39.578415 37539] Succeeded getting cached result
+[2022-05-25T12:08:39.578440 37539] Result: cache hit (direct)
+[2022-05-25T12:08:39.578538 37539] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/0/1/stats.lock
+[2022-05-25T12:08:39.598570 37539] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/0/1/stats.lock
+[2022-05-25T12:08:39.598648 37539] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/0/1/stats.lock
+[2022-05-25T12:08:39.701963 37536] Got result name from manifest
+[2022-05-25T12:08:39.702076 37536] Reading result /Users/moradigd/Library/Caches/Nuitka/ccache/b/8/25p85el6ofdm2mstptka2suul9g1e18R
+[2022-05-25T12:08:39.710596 37536] Reading embedded entry #0 .o (864712 bytes)
+[2022-05-25T12:08:39.710622 37536] Writing to static_src/CompiledFunctionType.o
+[2022-05-25T12:08:39.712372 37536] Succeeded getting cached result
+[2022-05-25T12:08:39.712399 37536] Result: cache hit (direct)
+[2022-05-25T12:08:39.712497 37536] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/b/8/stats.lock
+[2022-05-25T12:08:39.731918 37536] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/b/8/stats.lock
+[2022-05-25T12:08:39.732013 37536] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/b/8/stats.lock
+[2022-05-25T12:08:40.133150 37528] Using default compression level 1
+[2022-05-25T12:08:40.133277 37528] Storing result module.__main__.o
+[2022-05-25T12:08:40.133294 37528] Storing embedded file #0 .o (47680 bytes) from module.__main__.o
+[2022-05-25T12:08:40.140396 37528] Stored in cache: /Users/moradigd/Library/Caches/Nuitka/ccache/4/0/04684bv6195i85vpvknk2kf2olvaosoR
+[2022-05-25T12:08:40.140804 37528] Adding result name to /Users/moradigd/Library/Caches/Nuitka/ccache/f/4/24qecrpmdf5gudmuk25nopk17fmag86M
+[2022-05-25T12:08:40.142617 37528] Using default compression level 1
+[2022-05-25T12:08:40.143440 37528] Result: cache miss
+[2022-05-25T12:08:40.143627 37528] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-05-25T12:08:40.166574 37528] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-05-25T12:08:40.166665 37528] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/f/stats.lock
+[2022-05-25T12:08:40.166777 37528] Acquired lock /Users/moradigd/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-05-25T12:08:40.195594 37528] Releasing lock /Users/moradigd/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-05-25T12:08:40.195685 37528] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/4/stats.lock
+[2022-05-25T12:08:40.195762 37528] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/tmp/tmp.stderr.Hd1xp8
+[2022-05-25T12:08:40.195821 37528] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/tmp/tmp.stdout.GJecly
+[2022-05-25T12:08:40.195880 37528] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stderr.1NntNh
+[2022-05-25T12:08:40.195976 37528] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.kway5c.i
+[2022-05-25T12:08:40.196198 37528] Unlink /Users/moradigd/Library/Caches/Nuitka/ccache/tmp/tmp.cpp_stdout.kway5c
