@@ -80,10 +80,10 @@ The tool produces the following files
 1. **output_file.csv** file with the followinig structure:
  Input	plasmid	Closest Family	Greater Than % Baseline Population
 
-| Tag	          | Sequence      | Plaimd | Closest Systematic Rank  | Greater Than % Baseline Population|
-| ------------- |:-------------:| :----: | :-----------------------:| ---------------------------------:|
-| seq1          | AGCTGTGGGTTTA |  pB10  |   Pseudomonadaceae       |               95                  |
-| seq2          | AACCCGCGAGGAA |  pB10  |    Aeromonadaceae        |               65                  |
+| Tag	          | Sequence      | Plasmid | Closest Systematic Rank  | Greater Than % Baseline Population|
+| ------------- |:-------------:| :-----: | :-----------------------:| ---------------------------------:|
+| seq1          | AGCTGTGGGTTTA |  pB10   |   Pseudomonadaceae       |               95                  |
+| seq2          | AACCCGCGAGGAA |  pB10   |    Aeromonadaceae        |               65                  |
 
 
 ***Tag***: The tags corresponding to the tas in the multifasta input file.
