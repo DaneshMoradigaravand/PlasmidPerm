@@ -51,6 +51,8 @@ The commmand provides a link to the following front web application:
 ----
 ### Manual <a name="installation"></a>
 
+The tools is initiated using the binary command. The help instruction is called using -h option. 
+
 ```
 usage: plasmidperm.bin [-h] -i INPUT -o OUTPUT [-p {pB10,pKJK5,RP4}] [-r {Kingdom,Phylum,Class,Order,Family,Genus}] [-t TREE]
 
@@ -94,7 +96,7 @@ The tool produces the following files
 
 2. **binary_presence_absence_kmers.fasta** The file contain binary semim-sequence file for the presence and absence of kmers denoted by **A** and **C** bases, respectively.
 
-3. **inary_presence_absence_kmers.tre** The phylogenetic neighbour-joining tree in the newick format made from the sequence distance matrix of the kmer sequences. The tree can be visulaized in Figtree.
+3. **binary_presence_absence_kmers.tre** The phylogenetic neighbour-joining tree in the newick format made from the sequence distance matrix of the kmer sequences. The tree can be visulaized in Figtree.
 
 ----
 ### Supplemental files <a name="package"></a>
