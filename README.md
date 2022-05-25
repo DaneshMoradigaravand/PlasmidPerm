@@ -80,15 +80,17 @@ The tool produces the following files
 1. **output_file.csv** file with the followinig structure:
  Input	plasmid	Closest Family	Greater Than % Baseline Population
 
-| Tag	          | Sequence      | Closest Systematic Rank  | Greater Than % Baseline Population|
-| ------------- |:-------------:| :-----------------------:| ---------------------------------:|
-| seq1          | AGCTGTGGGTTTA | Pseudomonadaceae         |               95                  |
-| seq2          | AACCCGCGAGGAA | Aeromonadaceae           |               65                  |
+| Tag	          | Sequence      | Plaimd | Closest Systematic Rank  | Greater Than % Baseline Population|
+| ------------- |:-------------:| :----: | :-----------------------:| ---------------------------------:|
+| seq1          | AGCTGTGGGTTTA |  pB10  |   Pseudomonadaceae       |               95                  |
+| seq2          | AACCCGCGAGGAA |  pB10  |    Aeromonadaceae        |               65                  |
 
 
 ***Tag***: The tags corresponding to the tas in the multifasta input file.
 
 ***Sequence***: The sequences from the multifasta file.
+
+***Plasmid***: The plasmid for which perissiveness of reccipients are prredicted.
 
 ***Closest Systematic Rank***: The closest rank based on the Eucledian distance between the kmer profile for the sequence and sequuences in the training dataset.
 
