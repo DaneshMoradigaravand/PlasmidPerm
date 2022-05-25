@@ -9,6 +9,8 @@
 6. [Supplemental files](#package)
 7. [Contact](#contact)
 
+----
+
 ### Citation <a name="citation"></a>
 
 This package has been developed by the Moradigaravand and Kreft lab as part of the following paper, currently under review:
