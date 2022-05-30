@@ -51,7 +51,7 @@ The commmand provides a link to the following front web application:
 </p>
 
 ----
-### Manual <a name="installation"></a>
+### Manual <a name="manual"></a>
 
 The tools is initiated using the binary command. The help instruction is called using -h option. Note in the multifasta file base **U** need to be replaced by **T**.   
 
