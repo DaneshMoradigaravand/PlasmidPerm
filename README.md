@@ -1,4 +1,4 @@
-# Machine Learning aided Prediction of Plasmid Permsiveness 
+# Machine Learning aided Prediction of Plasmid Permissiveness 
 
 ## Table of contents
 1. [Citation](#citation)
@@ -22,7 +22,7 @@ Citation will be added upon the final publication of the manuscript.
 ----
 
 ### Introduction <a name="content"></a>
-The package predicts a relative value for permissiveness from any arbitrary 16s rRNA input data, using a random forest model. Plasmid permissiveness is the ability of recipient bacteria to receive external DNA through the mechanism of conjugation. Prediction is made in the relative model, i.e. the permissivenss value is compared with other strains in the training dataset and reported as the % of strains having a smaller permissiveness in the training dataset. Furthermore, the package reports the closest systematic type, based on the selected rank, to the input sequence. The prediction is made for the broad-range plasmids of **pB10**, **pKJK5** and **RP4**.  
+The package predicts a relative value for permissiveness from any arbitrary 16S rRNA input data, using a random forest model. Plasmid permissiveness is the ability of recipient bacteria to receive external DNA through the mechanism of conjugation. Prediction is made in the relative model, i.e. the permissivenss value is compared with other strains in the training dataset and reported as the % of strains having a smaller permissiveness in the training dataset. Furthermore, the package reports the closest taxon, based on the selected rank, to the input sequence. The prediction is made for the broad-range plasmids of **pB10**, **pKJK5** and **RP4**.  
 
 ----
 ### Installation <a name="installation"></a>
