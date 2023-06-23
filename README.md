@@ -13,11 +13,17 @@
 
 ### Citation <a name="citation"></a>
 
-This package has been developed by the Moradigaravand and Kreft lab as part of the following paper, currently under review:
+## Citation
+If you use the code or findings from this study, please cite the following research article:
 
-*Plasmid Permissiveness of Wastewater Microbiomes can be Predicted from 16S rRNA phylogeny by Machine Learning.*
+```
+Danesh Moradigaravand, Liguan Li, Arnaud Dechesne, Joseph Nesme, Roberto de la Cruz, Huda Ahmad, Manuel Banzhaf, Søren J Sørensen, Barth F Smets, Jan-Ulrich Kreft
+Plasmid Permissiveness of Wastewater Microbiomes can be Predicted from 16S rRNA Sequences by Machine Learning,
+Bioinformatics, 2023;, btad400
+https://doi.org/10.1093/bioinformatics/btad400
+```
 
-Citation will be added upon the final publication of the manuscript.
+For any questions or inquiries, please contact the authors.
 
 ----
 
