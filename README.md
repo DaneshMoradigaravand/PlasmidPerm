@@ -14,7 +14,7 @@
 ### Citation <a name="citation"></a>
 
 ## Citation
-If you use the code or findings from this study, please cite the following research article:
+If you use the code or findings from this study, please cite the following article:
 
 ```
 Danesh Moradigaravand, Liguan Li, Arnaud Dechesne, Joseph Nesme, Roberto de la Cruz, Huda Ahmad, Manuel Banzhaf, Søren J Sørensen, Barth F Smets, Jan-Ulrich Kreft
