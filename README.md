@@ -119,7 +119,7 @@ These files are located in the **SupplementalFiles** folder and include:
 
 ----
 ### Contact <a name="contact"></a>
-For queries, please contact [Danesh Moradigaravand](mailto:d.moradigaravand@bham.ac.uk?subject=[GitHub]), Data-Driven Microbiology lab, Center for Computational Biology, University of Birmingham. 
+For queries, please contact [Danesh Moradigaravand](mailto:danesh.moradigaravand@kaust.edu.sa?subject=[GitHub]), Laboratory of Infectious Disease Epidemiology, KAUST Smart Health Initiative, KAUST. 
  
 
 
